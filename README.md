@@ -1,2 +1,2 @@
-# reids-note
-Learn redis note
+# study study hard 好好学习 天天向上
+study study hard
